@@ -93,3 +93,18 @@ markets are efficient and the model is frequently wrong; the published standings
 honest about that. Never bet money you can't afford to lose.
 
 🤖 Built with [Claude Code](https://claude.com/claude-code).
+
+## 🔄 Daily automation (always-fresh data)
+
+A launchd job runs `scripts/daily_update.sh` **twice daily (08:00 & 20:00)**: it pulls the latest
+results, re-scores predictions, settles the paper book + Kelly portfolio against real Kalshi results,
+regenerates `STANDINGS.md`, and pushes to GitHub — unattended. It also catches up on missed runs after
+the Mac wakes from sleep. Install on a fresh machine:
+
+```bash
+cp scripts/com.wc2026.dailyupdate.plist ~/Library/LaunchAgents/
+launchctl load -w ~/Library/LaunchAgents/com.wc2026.dailyupdate.plist
+```
+
+Run on demand any time with `bash scripts/daily_update.sh`. Logs: `~/Library/Logs/wc2026_daily.log`.
+Edit the paths/times in the plist for your machine. Requires `gh auth setup-git` so pushes are non-interactive.
