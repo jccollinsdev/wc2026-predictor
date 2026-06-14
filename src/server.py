@@ -30,6 +30,7 @@ import kalshi as _kalshi
 import edges as _edges
 import paper as _paper
 import sharp as _sharp
+import portfolio as _portfolio
 import time
 import urllib.parse
 
@@ -216,6 +217,32 @@ def _ledger_html():
     return "".join(out)
 
 
+def _portfolio_html():
+    """Kelly-sized $1000 portfolio panel: equity, return, drawdown, open positions."""
+    try:
+        p = _portfolio._load(); _portfolio.settle(p); _portfolio._save(p)
+        rp = _portfolio.report(p)
+    except Exception:
+        return ""
+    pc = "pos" if rp["ret"] >= 0 else "neg"
+    opens = [x for x in p["positions"] if x["status"] == "open"]
+    head = (f"<div class='ledger port'><div class='lhead'>💵 Kelly $1000 portfolio "
+            f"<span class='lsum'>equity <span class='{pc}'>${rp['equity']:.2f}</span> "
+            f"(<span class='{pc}'>{rp['ret']*100:+.1f}%</span>) &middot; cash ${rp['cash']:.0f} &middot; "
+            f"{rp['n_open']} open (${rp['exposure']:.0f} at risk) &middot; "
+            f"maxDD {rp['max_dd']*100:.1f}%</span></div>")
+    if not opens:
+        return head + "<div class='enote'>No Kelly positions yet — run <code>python src/track.py</code>.</div></div>"
+    out = [head, "<table class='etbl ltbl'><tr><th>Match</th><th>Bet</th><th>Entry</th>"
+           "<th>Size</th><th>¼-Kelly</th></tr>"]
+    for x in opens[-8:]:
+        out.append(f"<tr><td>{_html.escape(x['home'])} v {_html.escape(x['away'])}</td>"
+                   f"<td>{_html.escape(x['label'])}</td><td>{x['entry_c']}¢</td>"
+                   f"<td>{x['contracts']} (${x['stake']:.0f})</td><td>{x['kelly_f']*100:.1f}%</td></tr>")
+    out.append("</table></div>")
+    return "".join(out)
+
+
 @app.route("/paperbet")
 def paperbet():
     from flask import redirect
@@ -321,6 +348,7 @@ border-radius:6px;padding:5px 8px;} .mform .sc{text-align:center;}
 .pos{color:#74e08c;} .neg{color:#f0838a;}
 .clearlink{color:#6b7886;font-size:11px;margin-left:10px;text-decoration:none;}
 .clearlink:hover{color:#c93c37;}
+.port{background:#16202b;border-color:#28384a;}
 .logbet{text-decoration:none;font-size:12px;margin-left:5px;opacity:.7;} .logbet:hover{opacity:1;}
 """
 
@@ -404,7 +432,8 @@ def index():
     # pre-match cards rendered fresh each request so Kalshi prices update (model itself is cached)
     prematch_cards = [_game_card(r, board) for (r, board) in STATE["prematch_rb"]]
     return page_html(pred.asof, roi, manual_card, live_cards, prematch_cards,
-                     STATE["teams"], vals, _lineups.available(), ledger=_ledger_html())
+                     STATE["teams"], vals, _lineups.available(),
+                     ledger=_portfolio_html() + _ledger_html())
 
 
 def build_state(days, roi, asof, rebuild):
