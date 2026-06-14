@@ -55,10 +55,10 @@
         "draw": "KXWCGAME-26JUN13HTISCO-TIE",
         "away": "KXWCGAME-26JUN13HTISCO-SCO"
       },
-      "status": "open",
-      "actual": null,
-      "correct": null,
-      "rps": null
+      "status": "settled",
+      "actual": "away",
+      "correct": 1,
+      "rps": 0.055
     },
     {
       "logged": "2026-06-13 21:05",
@@ -1234,6 +1234,126 @@
         "home": "KXWCGAME-26JUN26SENIRQ-SEN",
         "draw": "KXWCGAME-26JUN26SENIRQ-TIE",
         "away": "KXWCGAME-26JUN26SENIRQ-IRQ"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-14 06:05",
+      "date": "2026-06-27",
+      "home": "Jordan",
+      "away": "Argentina",
+      "p_home": 0.0359,
+      "p_draw": 0.0991,
+      "p_away": 0.865,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN27JORARG-JOR",
+        "draw": "KXWCGAME-26JUN27JORARG-TIE",
+        "away": "KXWCGAME-26JUN27JORARG-ARG"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-14 06:05",
+      "date": "2026-06-27",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "p_home": 0.3555,
+      "p_draw": 0.3659,
+      "p_away": 0.2787,
+      "pick": "draw",
+      "proj_score": "0-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-14 06:05",
+      "date": "2026-06-27",
+      "home": "Colombia",
+      "away": "Portugal",
+      "p_home": 0.3137,
+      "p_draw": 0.2751,
+      "p_away": 0.4113,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN27COLPOR-COL",
+        "draw": "KXWCGAME-26JUN27COLPOR-TIE",
+        "away": "KXWCGAME-26JUN27COLPOR-POR"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-14 06:05",
+      "date": "2026-06-27",
+      "home": "Panama",
+      "away": "England",
+      "p_home": 0.0445,
+      "p_draw": 0.1109,
+      "p_away": 0.8446,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN27PANENG-PAN",
+        "draw": "KXWCGAME-26JUN27PANENG-TIE",
+        "away": "KXWCGAME-26JUN27PANENG-ENG"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-14 06:05",
+      "date": "2026-06-27",
+      "home": "Algeria",
+      "away": "Austria",
+      "p_home": 0.32,
+      "p_draw": 0.3194,
+      "p_away": 0.3606,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN27DZAAUT-DZA",
+        "draw": "KXWCGAME-26JUN27DZAAUT-TIE",
+        "away": "KXWCGAME-26JUN27DZAAUT-AUT"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-14 06:05",
+      "date": "2026-06-27",
+      "home": "Croatia",
+      "away": "Ghana",
+      "p_home": 0.6426,
+      "p_draw": 0.2222,
+      "p_away": 0.1352,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN27CROGHA-CRO",
+        "draw": "KXWCGAME-26JUN27CROGHA-TIE",
+        "away": "KXWCGAME-26JUN27CROGHA-GHA"
       },
       "status": "open",
       "actual": null,
