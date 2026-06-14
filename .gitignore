@@ -1,0 +1,22 @@
+# secrets — NEVER commit API keys
+.env
+
+# python envs / caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+
+# large raw data (refresh with: python scripts/fetch_data.py) — too big for git
+data/raw/players_multiyear.csv
+data/raw/fixtures.csv
+data/raw/match_stats.csv
+data/processed/
+*.pkl
+
+# regenerated artifacts
+outputs/dashboard.html
+models/

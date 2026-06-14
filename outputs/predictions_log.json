@@ -1,0 +1,1244 @@
+{
+  "preds": [
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-13",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "p_home": 0.0617,
+      "p_draw": 0.1436,
+      "p_away": 0.7947,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN13QATSUI-QAT",
+        "draw": "KXWCGAME-26JUN13QATSUI-TIE",
+        "away": "KXWCGAME-26JUN13QATSUI-SUI"
+      },
+      "status": "settled",
+      "actual": "draw",
+      "correct": 0,
+      "rps": 0.3177
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-13",
+      "home": "Brazil",
+      "away": "Morocco",
+      "p_home": 0.3685,
+      "p_draw": 0.3235,
+      "p_away": 0.3081,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN13BRAMAR-BRA",
+        "draw": "KXWCGAME-26JUN13BRAMAR-TIE",
+        "away": "KXWCGAME-26JUN13BRAMAR-MAR"
+      },
+      "status": "settled",
+      "actual": "draw",
+      "correct": 0,
+      "rps": 0.1153
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-13",
+      "home": "Haiti",
+      "away": "Scotland",
+      "p_home": 0.1237,
+      "p_draw": 0.184,
+      "p_away": 0.6924,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN13HTISCO-HTI",
+        "draw": "KXWCGAME-26JUN13HTISCO-TIE",
+        "away": "KXWCGAME-26JUN13HTISCO-SCO"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-13",
+      "home": "Australia",
+      "away": "Turkey",
+      "p_home": 0.2825,
+      "p_draw": 0.2904,
+      "p_away": 0.4271,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-14",
+      "home": "Germany",
+      "away": "Cura\u00e7ao",
+      "p_home": 0.9461,
+      "p_draw": 0.0419,
+      "p_away": 0.012,
+      "pick": "home",
+      "proj_score": "4-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-14",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "p_home": 0.2294,
+      "p_draw": 0.3661,
+      "p_away": 0.4045,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-14",
+      "home": "Netherlands",
+      "away": "Japan",
+      "p_home": 0.3939,
+      "p_draw": 0.3095,
+      "p_away": 0.2966,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN14NEDJPN-NED",
+        "draw": "KXWCGAME-26JUN14NEDJPN-TIE",
+        "away": "KXWCGAME-26JUN14NEDJPN-JPN"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-14",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "p_home": 0.4587,
+      "p_draw": 0.2862,
+      "p_away": 0.2551,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN14SWETUN-SWE",
+        "draw": "KXWCGAME-26JUN14SWETUN-TIE",
+        "away": "KXWCGAME-26JUN14SWETUN-TUN"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-15",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "p_home": 0.1177,
+      "p_draw": 0.2846,
+      "p_away": 0.5977,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN15KSAURU-KSA",
+        "draw": "KXWCGAME-26JUN15KSAURU-TIE",
+        "away": "KXWCGAME-26JUN15KSAURU-URU"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-15",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "p_home": 0.8627,
+      "p_draw": 0.1124,
+      "p_away": 0.0249,
+      "pick": "home",
+      "proj_score": "3-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-15",
+      "home": "Belgium",
+      "away": "Egypt",
+      "p_home": 0.5843,
+      "p_draw": 0.2628,
+      "p_away": 0.1529,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN15BELEGY-BEL",
+        "draw": "KXWCGAME-26JUN15BELEGY-TIE",
+        "away": "KXWCGAME-26JUN15BELEGY-EGY"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-15",
+      "home": "Iran",
+      "away": "New Zealand",
+      "p_home": 0.6467,
+      "p_draw": 0.2185,
+      "p_away": 0.1348,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-16",
+      "home": "Argentina",
+      "away": "Algeria",
+      "p_home": 0.6183,
+      "p_draw": 0.2543,
+      "p_away": 0.1275,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN16ARGDZA-ARG",
+        "draw": "KXWCGAME-26JUN16ARGDZA-TIE",
+        "away": "KXWCGAME-26JUN16ARGDZA-DZA"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-16",
+      "home": "Austria",
+      "away": "Jordan",
+      "p_home": 0.6515,
+      "p_draw": 0.2208,
+      "p_away": 0.1277,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN17AUTJOR-AUT",
+        "draw": "KXWCGAME-26JUN17AUTJOR-TIE",
+        "away": "KXWCGAME-26JUN17AUTJOR-JOR"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-16",
+      "home": "France",
+      "away": "Senegal",
+      "p_home": 0.5619,
+      "p_draw": 0.2592,
+      "p_away": 0.1788,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN16FRASEN-FRA",
+        "draw": "KXWCGAME-26JUN16FRASEN-TIE",
+        "away": "KXWCGAME-26JUN16FRASEN-SEN"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-16",
+      "home": "Iraq",
+      "away": "Norway",
+      "p_home": 0.0892,
+      "p_draw": 0.1811,
+      "p_away": 0.7297,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN16IRQNOR-IRQ",
+        "draw": "KXWCGAME-26JUN16IRQNOR-TIE",
+        "away": "KXWCGAME-26JUN16IRQNOR-NOR"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-17",
+      "home": "Ghana",
+      "away": "Panama",
+      "p_home": 0.3897,
+      "p_draw": 0.2819,
+      "p_away": 0.3284,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN17GHAPAN-GHA",
+        "draw": "KXWCGAME-26JUN17GHAPAN-TIE",
+        "away": "KXWCGAME-26JUN17GHAPAN-PAN"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-17",
+      "home": "England",
+      "away": "Croatia",
+      "p_home": 0.5289,
+      "p_draw": 0.2902,
+      "p_away": 0.181,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN17ENGCRO-ENG",
+        "draw": "KXWCGAME-26JUN17ENGCRO-TIE",
+        "away": "KXWCGAME-26JUN17ENGCRO-CRO"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-17",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "p_home": 0.6468,
+      "p_draw": 0.2352,
+      "p_away": 0.1181,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-17",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "p_home": 0.1102,
+      "p_draw": 0.255,
+      "p_away": 0.6347,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN17UZBCOL-UZB",
+        "draw": "KXWCGAME-26JUN17UZBCOL-TIE",
+        "away": "KXWCGAME-26JUN17UZBCOL-COL"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-18",
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "p_home": 0.5541,
+      "p_draw": 0.2629,
+      "p_away": 0.183,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-18",
+      "home": "Mexico",
+      "away": "South Korea",
+      "p_home": 0.5544,
+      "p_draw": 0.264,
+      "p_away": 0.1815,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-18",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "p_home": 0.6482,
+      "p_draw": 0.2345,
+      "p_away": 0.1173,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN18SUIBIH-SUI",
+        "draw": "KXWCGAME-26JUN18SUIBIH-TIE",
+        "away": "KXWCGAME-26JUN18SUIBIH-BIH"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-18",
+      "home": "Canada",
+      "away": "Qatar",
+      "p_home": 0.7715,
+      "p_draw": 0.1562,
+      "p_away": 0.0723,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN18CANQAT-CAN",
+        "draw": "KXWCGAME-26JUN18CANQAT-TIE",
+        "away": "KXWCGAME-26JUN18CANQAT-QAT"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-19",
+      "home": "Turkey",
+      "away": "Paraguay",
+      "p_home": 0.4522,
+      "p_draw": 0.2909,
+      "p_away": 0.2569,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-19",
+      "home": "United States",
+      "away": "Australia",
+      "p_home": 0.4286,
+      "p_draw": 0.2799,
+      "p_away": 0.2915,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN19USAAUS-USA",
+        "draw": "KXWCGAME-26JUN19USAAUS-TIE",
+        "away": "KXWCGAME-26JUN19USAAUS-AUS"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-19",
+      "home": "Scotland",
+      "away": "Morocco",
+      "p_home": 0.18,
+      "p_draw": 0.3188,
+      "p_away": 0.5011,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN19SCOMAR-SCO",
+        "draw": "KXWCGAME-26JUN19SCOMAR-TIE",
+        "away": "KXWCGAME-26JUN19SCOMAR-MAR"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-19",
+      "home": "Brazil",
+      "away": "Haiti",
+      "p_home": 0.9084,
+      "p_draw": 0.0709,
+      "p_away": 0.0207,
+      "pick": "home",
+      "proj_score": "3-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN19BRAHTI-BRA",
+        "draw": "KXWCGAME-26JUN19BRAHTI-TIE",
+        "away": "KXWCGAME-26JUN19BRAHTI-HTI"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-20",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "p_home": 0.5951,
+      "p_draw": 0.2392,
+      "p_away": 0.1657,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-20",
+      "home": "Ecuador",
+      "away": "Cura\u00e7ao",
+      "p_home": 0.8264,
+      "p_draw": 0.1355,
+      "p_away": 0.0381,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-20",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "p_home": 0.6013,
+      "p_draw": 0.2219,
+      "p_away": 0.1768,
+      "pick": "home",
+      "proj_score": "2-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN20NEDSWE-NED",
+        "draw": "KXWCGAME-26JUN20NEDSWE-TIE",
+        "away": "KXWCGAME-26JUN20NEDSWE-SWE"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-20",
+      "home": "Tunisia",
+      "away": "Japan",
+      "p_home": 0.1394,
+      "p_draw": 0.2814,
+      "p_away": 0.5792,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN21TUNJPN-TUN",
+        "draw": "KXWCGAME-26JUN21TUNJPN-TIE",
+        "away": "KXWCGAME-26JUN21TUNJPN-JPN"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-21",
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "p_home": 0.6825,
+      "p_draw": 0.2266,
+      "p_away": 0.0909,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-21",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "p_home": 0.8438,
+      "p_draw": 0.1193,
+      "p_away": 0.0369,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN21ESPKSA-ESP",
+        "draw": "KXWCGAME-26JUN21ESPKSA-TIE",
+        "away": "KXWCGAME-26JUN21ESPKSA-KSA"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-21",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "p_home": 0.1676,
+      "p_draw": 0.3093,
+      "p_away": 0.5231,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN21NZLEGY-NZL",
+        "draw": "KXWCGAME-26JUN21NZLEGY-TIE",
+        "away": "KXWCGAME-26JUN21NZLEGY-EGY"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-21",
+      "home": "Belgium",
+      "away": "Iran",
+      "p_home": 0.591,
+      "p_draw": 0.2357,
+      "p_away": 0.1733,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-22",
+      "home": "Jordan",
+      "away": "Algeria",
+      "p_home": 0.1527,
+      "p_draw": 0.237,
+      "p_away": 0.6103,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN22JORDZA-JOR",
+        "draw": "KXWCGAME-26JUN22JORDZA-TIE",
+        "away": "KXWCGAME-26JUN22JORDZA-DZA"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-22",
+      "home": "Argentina",
+      "away": "Austria",
+      "p_home": 0.5831,
+      "p_draw": 0.2827,
+      "p_away": 0.1342,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN22ARGAUT-ARG",
+        "draw": "KXWCGAME-26JUN22ARGAUT-TIE",
+        "away": "KXWCGAME-26JUN22ARGAUT-AUT"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-22",
+      "home": "Norway",
+      "away": "Senegal",
+      "p_home": 0.4328,
+      "p_draw": 0.2829,
+      "p_away": 0.2843,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN22NORSEN-NOR",
+        "draw": "KXWCGAME-26JUN22NORSEN-TIE",
+        "away": "KXWCGAME-26JUN22NORSEN-SEN"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-22",
+      "home": "France",
+      "away": "Iraq",
+      "p_home": 0.7746,
+      "p_draw": 0.168,
+      "p_away": 0.0573,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN22FRAIRQ-FRA",
+        "draw": "KXWCGAME-26JUN22FRAIRQ-TIE",
+        "away": "KXWCGAME-26JUN22FRAIRQ-IRQ"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-23",
+      "home": "England",
+      "away": "Ghana",
+      "p_home": 0.7853,
+      "p_draw": 0.1587,
+      "p_away": 0.056,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN23ENGGHA-ENG",
+        "draw": "KXWCGAME-26JUN23ENGGHA-TIE",
+        "away": "KXWCGAME-26JUN23ENGGHA-GHA"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-23",
+      "home": "Panama",
+      "away": "Croatia",
+      "p_home": 0.099,
+      "p_draw": 0.1822,
+      "p_away": 0.7188,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN23PANCRO-PAN",
+        "draw": "KXWCGAME-26JUN23PANCRO-TIE",
+        "away": "KXWCGAME-26JUN23PANCRO-CRO"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-23",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "p_home": 0.7119,
+      "p_draw": 0.2009,
+      "p_away": 0.0873,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN23PORUZB-POR",
+        "draw": "KXWCGAME-26JUN23PORUZB-TIE",
+        "away": "KXWCGAME-26JUN23PORUZB-UZB"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-23",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "p_home": 0.5872,
+      "p_draw": 0.2776,
+      "p_away": 0.1351,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-24",
+      "home": "Scotland",
+      "away": "Brazil",
+      "p_home": 0.1587,
+      "p_draw": 0.2247,
+      "p_away": 0.6166,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN24SCOBRA-SCO",
+        "draw": "KXWCGAME-26JUN24SCOBRA-TIE",
+        "away": "KXWCGAME-26JUN24SCOBRA-BRA"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-24",
+      "home": "Mexico",
+      "away": "Czech Republic",
+      "p_home": 0.5551,
+      "p_draw": 0.2584,
+      "p_away": 0.1865,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-24",
+      "home": "South Africa",
+      "away": "South Korea",
+      "p_home": 0.1727,
+      "p_draw": 0.2754,
+      "p_away": 0.5519,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-24",
+      "home": "Canada",
+      "away": "Switzerland",
+      "p_home": 0.2603,
+      "p_draw": 0.3042,
+      "p_away": 0.4354,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN24SUICAN-CAN",
+        "draw": "KXWCGAME-26JUN24SUICAN-TIE",
+        "away": "KXWCGAME-26JUN24SUICAN-SUI"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-24",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "p_home": 0.5344,
+      "p_draw": 0.2653,
+      "p_away": 0.2003,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN24BIHQAT-BIH",
+        "draw": "KXWCGAME-26JUN24BIHQAT-TIE",
+        "away": "KXWCGAME-26JUN24BIHQAT-QAT"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-24",
+      "home": "Morocco",
+      "away": "Haiti",
+      "p_home": 0.8172,
+      "p_draw": 0.1381,
+      "p_away": 0.0447,
+      "pick": "home",
+      "proj_score": "2-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN24MARHTI-MAR",
+        "draw": "KXWCGAME-26JUN24MARHTI-TIE",
+        "away": "KXWCGAME-26JUN24MARHTI-HTI"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-25",
+      "home": "Paraguay",
+      "away": "Australia",
+      "p_home": 0.3256,
+      "p_draw": 0.3257,
+      "p_away": 0.3486,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN25PARAUS-PAR",
+        "draw": "KXWCGAME-26JUN25PARAUS-TIE",
+        "away": "KXWCGAME-26JUN25PARAUS-AUS"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-25",
+      "home": "Cura\u00e7ao",
+      "away": "Ivory Coast",
+      "p_home": 0.0745,
+      "p_draw": 0.1811,
+      "p_away": 0.7444,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-25",
+      "home": "United States",
+      "away": "Turkey",
+      "p_home": 0.3404,
+      "p_draw": 0.2621,
+      "p_away": 0.3975,
+      "pick": "away",
+      "proj_score": "1-2",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-25",
+      "home": "Japan",
+      "away": "Sweden",
+      "p_home": 0.5729,
+      "p_draw": 0.2442,
+      "p_away": 0.1829,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN25JPNSWE-JPN",
+        "draw": "KXWCGAME-26JUN25JPNSWE-TIE",
+        "away": "KXWCGAME-26JUN25JPNSWE-SWE"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-25",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "p_home": 0.1102,
+      "p_draw": 0.2233,
+      "p_away": 0.6665,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN25TUNNED-TUN",
+        "draw": "KXWCGAME-26JUN25TUNNED-TIE",
+        "away": "KXWCGAME-26JUN25TUNNED-NED"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-25",
+      "home": "Ecuador",
+      "away": "Germany",
+      "p_home": 0.2682,
+      "p_draw": 0.3049,
+      "p_away": 0.4269,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN25ECUGER-ECU",
+        "draw": "KXWCGAME-26JUN25ECUGER-TIE",
+        "away": "KXWCGAME-26JUN25ECUGER-GER"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-26",
+      "home": "Uruguay",
+      "away": "Spain",
+      "p_home": 0.1757,
+      "p_draw": 0.2975,
+      "p_away": 0.5268,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN26URUESP-URU",
+        "draw": "KXWCGAME-26JUN26URUESP-TIE",
+        "away": "KXWCGAME-26JUN26URUESP-ESP"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-26",
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "p_home": 0.2942,
+      "p_draw": 0.3239,
+      "p_away": 0.3819,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-26",
+      "home": "Norway",
+      "away": "France",
+      "p_home": 0.2473,
+      "p_draw": 0.2789,
+      "p_away": 0.4738,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": "KXWCGAME-26JUN26NORFRA-NOR",
+        "draw": "KXWCGAME-26JUN26NORFRA-TIE",
+        "away": "KXWCGAME-26JUN26NORFRA-FRA"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-26",
+      "home": "Egypt",
+      "away": "Iran",
+      "p_home": 0.3308,
+      "p_draw": 0.316,
+      "p_away": 0.3532,
+      "pick": "away",
+      "proj_score": "0-1",
+      "tickers": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-26",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "p_home": 0.0499,
+      "p_draw": 0.1321,
+      "p_away": 0.818,
+      "pick": "away",
+      "proj_score": "0-2",
+      "tickers": {
+        "home": "KXWCGAME-26JUN26NZLBEL-NZL",
+        "draw": "KXWCGAME-26JUN26NZLBEL-TIE",
+        "away": "KXWCGAME-26JUN26NZLBEL-BEL"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    },
+    {
+      "logged": "2026-06-13 21:05",
+      "date": "2026-06-26",
+      "home": "Senegal",
+      "away": "Iraq",
+      "p_home": 0.6274,
+      "p_draw": 0.2464,
+      "p_away": 0.1262,
+      "pick": "home",
+      "proj_score": "1-0",
+      "tickers": {
+        "home": "KXWCGAME-26JUN26SENIRQ-SEN",
+        "draw": "KXWCGAME-26JUN26SENIRQ-TIE",
+        "away": "KXWCGAME-26JUN26SENIRQ-IRQ"
+      },
+      "status": "open",
+      "actual": null,
+      "correct": null,
+      "rps": null
+    }
+  ]
+}
