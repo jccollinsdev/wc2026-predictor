@@ -239,7 +239,27 @@
       "pnl": null,
       "close_c": null,
       "clv_c": null
+    },
+    {
+      "id": 13,
+      "ts": "2026-06-13 21:15",
+      "home": "Haiti",
+      "away": "Scotland",
+      "side": "away",
+      "label": "Scotland win",
+      "ticker": "KXWCGAME-26JUN13HTISCO-SCO",
+      "entry_c": 57,
+      "contracts": 18,
+      "stake": 10.26,
+      "fee": 0.31,
+      "fair_c": 69.2,
+      "note": "auto-tentative",
+      "status": "open",
+      "result": null,
+      "pnl": null,
+      "close_c": null,
+      "clv_c": null
     }
   ],
-  "next_id": 13
+  "next_id": 14
 }

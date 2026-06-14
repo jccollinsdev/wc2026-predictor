@@ -1,6 +1,6 @@
 {
   "start": 1000.0,
-  "cash": 809.59,
+  "cash": 737.95,
   "positions": [
     {
       "id": 1,
@@ -217,13 +217,35 @@
       "status": "open",
       "result": null,
       "pnl": null
+    },
+    {
+      "id": 13,
+      "ts": "2026-06-13 21:15",
+      "home": "Haiti",
+      "away": "Scotland",
+      "side": "away",
+      "label": "Scotland win",
+      "ticker": "KXWCGAME-26JUN13HTISCO-SCO",
+      "entry_c": 57,
+      "contracts": 122,
+      "stake": 69.54,
+      "fee": 2.1,
+      "kelly_f": 0.0711,
+      "fair_c": 69.2,
+      "status": "open",
+      "result": null,
+      "pnl": null
     }
   ],
   "equity_curve": [
     {
       "ts": "2026-06-13 21:06",
       "equity": 982.0
+    },
+    {
+      "ts": "2026-06-13 21:15",
+      "equity": 977.01
     }
   ],
-  "next_id": 13
+  "next_id": 14
 }

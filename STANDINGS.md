@@ -1,6 +1,6 @@
 # 🏆 WC2026 Model — Live Standings
 
-_Auto-generated 2026-06-13 21:06 · predictions, scoring, and a Kelly-sized mock portfolio. Not financial advice._
+_Auto-generated 2026-06-13 21:15 · predictions, scoring, and a Kelly-sized mock portfolio. Not financial advice._
 
 ## 📊 Model efficacy (1X2 predictions vs actual)
 
@@ -12,15 +12,15 @@ _RPS is the proper score for ordered W/D/L outcomes — **lower is better**, and
 
 ## 💵 Kelly $1000 portfolio (risk-sized, fee-aware)
 
-- **Equity: $982.00**  (start $1000, return **-1.8%**)
-- Cash $809.59 · at risk $172.41 · max drawdown -1.8%
-- Positions: 0 settled, 12 open · win rate —
+- **Equity: $977.01**  (start $1000, return **-2.3%**)
+- Cash $737.95 · at risk $239.06 · max drawdown -2.3%
+- Positions: 0 settled, 13 open · win rate —
 
 _¼-Kelly sizing, capped at 10% of bankroll per line; stakes compound with the live bankroll._
 
 ## 🧾 Flat paper book ($10/bet — clean signal test)
 
-- Settled 0 · realized **$+0.00** · ROI — · win — · **CLV —** · fees $6.73
+- Settled 0 · realized **$+0.00** · ROI — · win — · **CLV —** · fees $7.04
 
 _CLV (closing-line value) is the truest edge signal: consistently positive CLV means the model beats the market's closing price, regardless of any single result._
 
@@ -47,6 +47,7 @@ _CLV (closing-line value) is the truest edge signal: consistently positive CLV m
 | France v Senegal | Senegal win | 13¢ | 106 | $13.78 | 1.4% |
 | Iraq v Norway | Iraq win | 6¢ | 127 | $7.62 | 0.8% |
 | Iraq v Norway | Draw | 13¢ | 111 | $14.43 | 1.5% |
+| Haiti v Scotland | Scotland win | 57¢ | 122 | $69.54 | 7.1% |
 
 ---
 
