@@ -1,5 +1,7 @@
 # ⚽ WC2026 Predictor & Live Value Tracker
 
+[Portfolio case study](https://sansarkarki.com/case-study/north-light/)
+
 A quant-grade World Cup 2026 match-prediction model built **only from free, public data** (no paid
 APIs) — plus a localhost app that prices every betting market live, compares the model's fair value to
 **Kalshi**, disciplines its signals with a **sharp no-vig anchor**, and tracks its own efficacy and a
@@ -91,8 +93,6 @@ Key metrics:
 Research / educational project. **Paper money only — nothing here is financial advice.** Prediction
 markets are efficient and the model is frequently wrong; the published standings exist precisely to be
 honest about that. Never bet money you can't afford to lose.
-
-🤖 Built with [Claude Code](https://claude.com/claude-code).
 
 ## 🔄 Daily automation (always-fresh data)
 
